@@ -1,2 +1,19 @@
-# Algorithm
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+# Algorithm Study
+
+### 📚 Introduction
+이 레포지토리는 프로그래머스와 백준에서의 알고리즘 문제 풀이를 모은 저장소입니다. 다양한 알고리즘 문제를 풀며, 문제 해결 능력을 기르고, 알고리즘에 대한 이해를 깊이 있게 확장하는 것을 목표로 합니다. 각 문제의 풀이 과정과 코드, 학습한 알고리즘의 개념들을 정리하여 체계적으로 공부하고 있습니다.
+<br>
+
+### 🏆 학습 목표
+**알고리즘 문제 해결 능력 향상**: 매일 최소 1문제를 풀며 꾸준히 학습.
+**알고리즘 최적화**: 풀고 나서 더 효율적인 풀이 방법을 찾아 최적화 연습.
+**테스트 준비**: 실제 코딩 테스트와 유사한 문제를 풀어 실전 대비.
+
+### ⚙️ 기술 스택
+**언어**: Java <br>
+**문제 풀이 플랫폼**: 프로그래머스, 백준
+<br>
+
+
+<br><br><br>
+created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
