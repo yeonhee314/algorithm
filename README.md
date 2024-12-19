@@ -16,4 +16,3 @@
 
 
 <br><br><br>
-created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
